@@ -2,9 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.wkaanig.cn/2019/09/11/algorithms_analytical/</loc>
+    
+    <lastmod>2019-09-11T14:23:22.384Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.wkaanig.cn/2019/09/11/data_structure_01/</loc>
+    
+    <lastmod>2019-09-11T11:25:33.544Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.wkaanig.cn/2019/09/10/python_flask_01/</loc>
     
-    <lastmod>2019-09-10T13:51:39.045Z</lastmod>
+    <lastmod>2019-09-11T10:50:15.175Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.wkaanig.cn/2019/09/10/c_type/</loc>
+    
+    <lastmod>2019-09-11T10:13:29.675Z</lastmod>
     
   </url>
   
@@ -33,13 +54,6 @@
     <loc>http://www.wkaanig.cn/2019/09/10/hexo_new/</loc>
     
     <lastmod>2019-09-10T13:47:42.143Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.wkaanig.cn/2019/09/10/c_type/</loc>
-    
-    <lastmod>2019-09-10T13:47:17.819Z</lastmod>
     
   </url>
   
